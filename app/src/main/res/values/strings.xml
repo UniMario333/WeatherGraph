@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherGraph</string>
+    <string name="no_cities_found">No cities found</string>
+    <string name="loading_data_toast">Loading data for %1$s, %2$s …</string>
+    <string name="openweather_limit_toast">OpenWeather limit reached!! Wait at least to minutes to avoid getting banned by the service</string>
+    <string name="openweather_no_data_found">No data found</string>
+    <string name="openweather_no_data_found_whereabouts">No data found in the whereabouts of the city</string>
+    <string name="average_values_descritption_graph">Average values estimated on %1$d cities in a %2$dkm range</string>
+    <string name="max_temp_label">Max temp.</string>
+    <string name="avg_temp_label">Avg temp.</string>
+    <string name="min_temp_label">Min temp.</string>
+    <string name="humidity_label">Humidity: %1$.2f%%</string>
+    <string name="wind_speed_label">Wind speed: %1$.2fkm/h</string>
+</resources>
